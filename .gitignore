@@ -1,0 +1,7 @@
+__pycache__/*
+draft/*
+output/*
+results/*
+chroma_chat/*
+chroma_handbook/*
+handbook.txt
