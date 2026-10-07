@@ -23,7 +23,7 @@ Ask questions about uploaded PDFs and receive context-aware answers.
 
 ![Chatbot Demo](Examples/Chatbot.gif)
 
-[▶ Watch the full chatbot demo (MP4)](AI_Assistant_RAG-Powered_Document_Chat_and_Handbook_Generator/Examples/Chatbot.mp4)
+[▶ Watch the full chatbot demo (MP4)](Examples/Chatbot.mp4)
 
 ---
 
